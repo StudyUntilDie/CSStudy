@@ -3,7 +3,9 @@
 
 - 기간: 2022년 7월 ~
 - 정기 회의: 화 오후 9시 ~ 10시 반
-- 참고 강의: [CS지식의 정석](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95) - 큰돌
+- 참고 강의: [CS지식의 정석](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95) - 큰돌   
+  [컴퓨터네트워크](http://www.kocw.net/home/cview.do?cid=6166c077e545b736) - 이석복   
+  [운영체제](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09) - 반효경
 - Notion: [CS 스터디](https://www.notion.so/CS-218f4f2c65ee4d5ca85709427fd210da)
 ## 스터디 규칙
 #### 진행 방식
